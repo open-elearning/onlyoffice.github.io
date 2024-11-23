@@ -2,6 +2,8 @@
 
 ONLYOFFICE Plugin Marketplace (or Plugin Manager) allows users to explore all available plugins and install or remove any plugin with just one click right in the editors.
 
+https://open-elearning.github.io/onlyoffice.github.io/store/index.html
+
 ## How to build and add your own plugin
 
 In case you would like to create and add your own plugin to the marketplace, follow the steps below.
